@@ -4,9 +4,9 @@ Set the time for Shutdown, Restart, ... Support on Windows! Safety, Open Source 
 Support: Windows 7 or later (idk but maybe)
 
 # How to install
-:::danger
+;;;warning
 Before installing, please make sure to turn off antivirus! Don't worry, I promise it is safe!
-:::
+;;;
 
 First, download the lastest version of PowerSchedule [here](https://github.com/anlqdev/PowerSchedule/releases)
 
