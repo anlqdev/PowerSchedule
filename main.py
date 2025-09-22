@@ -5,7 +5,10 @@ import subprocess
 root = tk.Tk()
 root.title("PowerSchedule v1.0")
 root.resizable(False, False)
-root.iconbitmap("PowerSchedule-icon.ico")
+try:
+    root.iconbitmap("PowerSchedule-icon.ico")
+except:
+    pass
 
 time = tk.Label(root,text="Time: ")
 time.grid(row=0,column=0)
@@ -60,5 +63,6 @@ start_bt.grid(row=2, column=4)
 
 can_bt = tk.Button(root, text="Cancel", command=stop)
 can_bt.grid(row=2, column=3)
+
 
 root.mainloop()
