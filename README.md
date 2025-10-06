@@ -13,6 +13,8 @@ Actually, all operating systems have this feature, but it only runs when you run
 
 Just download the file and run it! That's easy for you lol =)
 
+[Get it here!](https://github.com/anlqdev/PowerSchedule/releases)
+
 # How to use
 
 ### Start
@@ -37,4 +39,6 @@ To ensure the best support, I will match the error code to the operating system 
 - Other error: Please report bug!
 
 Bonus: If you set the time without error but there is no noftication in the noftication bar, or the app not respond. Please report bug now!
+
+[Report bug here!](https://github.com/anlqdev/PowerSchedule/discussions/categories/report-bug)
 
